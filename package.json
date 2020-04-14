@@ -1,5 +1,5 @@
 {
-  "name": "Sudoku",
+  "name": "sudoku",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,10 @@
     "webpack-cli": "^3.3.8",
     "webpack-dev-server": "^3.8.0"
   },
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "jquery": "^3.5.0",
+    "popper.js": "^1.16.1"
+  }
 }
